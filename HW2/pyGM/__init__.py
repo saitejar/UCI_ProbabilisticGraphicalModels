@@ -8,8 +8,8 @@ Version 0.0.1 (2015-09-28)
 (c) 2015 Alexander Ihler under the FreeBSD license; see license.txt for details.
 """
 
-import numpy as np;
-from sortedcontainers import SortedSet as sset;
+import numpy as np
+from sortedcontainers import SortedSet as sset
 
 from .factor import *
 from .graphmodel import *
