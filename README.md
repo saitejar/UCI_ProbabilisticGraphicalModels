@@ -1,2 +1,2 @@
-# UCI_CS274B-PGM
+# Probabilistic Graphical Models
 Codes for Assignments in Probabilistic Graphical Models Course at UCI.
